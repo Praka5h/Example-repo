@@ -1,5 +1,5 @@
 
 # example Repo
 
-This is a sample repor, hello world!
+This is a sample report, hello world!
 
